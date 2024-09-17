@@ -1,0 +1,1 @@
+/home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/controll_flow/target/debug/while_and_for: /home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/controll_flow/src/bin/while_and_for.rs
