@@ -1,0 +1,1 @@
+/home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/guessing_game/target/debug/guessing_game: /home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/guessing_game/src/main.rs
