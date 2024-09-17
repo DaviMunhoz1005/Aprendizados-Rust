@@ -17,13 +17,14 @@ fn main() {
             .read_line(&mut guess)
             .expect("Failed to read Line");
 
-        let number : u32 = guess.trim().parse().expect("This is not a positive number!");
-
-        println!("Right number : {}", secret_number);
+        let guess: u32 = match guess.trim().parse() {
+            Ok(num) => num,
+            Err(_) => continue,
+        };
 
         attempts += 1;
 
-        match number.cmp(&secret_number) {
+        match guess.cmp(&secret_number) {
             Ordering::Less => {
                 println!("Too Small!");
             },
