@@ -1,0 +1,1 @@
+/home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/hello_world/target/debug/hello_world: /home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/hello_world/src/main.rs
