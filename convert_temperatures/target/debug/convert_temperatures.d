@@ -1,0 +1,1 @@
+/home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/convert_temperatures/target/debug/convert_temperatures: /home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/convert_temperatures/src/main.rs
