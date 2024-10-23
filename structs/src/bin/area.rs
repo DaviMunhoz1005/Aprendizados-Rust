@@ -10,6 +10,7 @@ fn main() {
         width: dbg!(5 * 2),
         heigth: 20
     };
+
     println!("{:#?}", rectangle);
     dbg!(&rectangle); // outra forma de printar, ele printa o caminho e a linha na qual esta sendo printado
     println!("A área do retângulo é {}",  get_area(&rectangle));
