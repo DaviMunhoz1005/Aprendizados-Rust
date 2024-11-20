@@ -3,7 +3,7 @@ fn main() {
     let mut string = String::from("Davi");
     string.push_str(" lindão");
 
-    let second_string = string.clone(); // esse clone é caro para a performace pq ele clona o dado do heap
+    let second_string = string.clone(); // esse clone é caro para a performace pq ele clona o dado do heap(monte)
 
     println!("string: {}, second_string: {}", string, second_string);
 

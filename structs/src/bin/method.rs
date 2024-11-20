@@ -7,12 +7,10 @@ struct Triangle {
 impl Triangle {
 
     fn get_area(&self) -> u32{
-
         (self.base * self.heigth) / 2
     }
 
-    fn  can_hold(&self, triangle : &Triangle) -> bool {
-        
+    fn can_hold(&self, triangle : &Triangle) -> bool {
         self.get_area() > triangle.get_area()
     }
 }

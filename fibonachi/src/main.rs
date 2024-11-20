@@ -23,7 +23,7 @@ fn main() {
     let mut prev = 0;
     let mut curr = 1;
 
-    for _ in 2..=nth_number {
+    for _ in 2..=nth_number { // range de 2 até o nth_number
         let next = prev + curr;
         prev = curr;
         curr = next;

@@ -17,7 +17,7 @@ fn main() {
     };
 
     my_user.name = String::from("Davi Marques");
-    let username = my_user.name;
+    let username = &my_user.name;
 
     println!("{}", username);
 
@@ -25,9 +25,11 @@ fn main() {
     println!("{}", user_build.name);
 
     let my_user2 = User {
-        name: String::from("Os .. copia o restante do outro"),
+        name: String::from("Os dois pontos (..) copia o restante do outro"),
         ..my_user
     };
+
+    print!("{}", my_user2.age);
 
     let black = RGB(0, 0, 0);
 
