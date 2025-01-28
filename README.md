@@ -57,3 +57,9 @@ $ cargo build --release
 ```bash
 $ cargo run --release
  ```
+
+- Cria crate de Biblioteca:
+
+```bash
+$ cargo new nome_do_projeto --lib
+ ```
