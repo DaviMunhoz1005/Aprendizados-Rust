@@ -1,5 +1,4 @@
 fn main() {
-
     println!("Hello!");
     name_to_dysplay(my_name(), -17);
 
@@ -12,7 +11,6 @@ fn main() {
 }
 
 fn name_to_dysplay(name : &str, number : i32){
-
     println!("{}, {}", name, number);
 }
 
