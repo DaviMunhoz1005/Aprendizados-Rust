@@ -1,0 +1,1 @@
+/home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/string_text/target/debug/string_text: /home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/string_text/src/main.rs

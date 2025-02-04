@@ -1,5 +1,9 @@
 use std::vec;
 
+/* 
+Se quer aprender sobre vetor então pesquisa na documentação do vetor, lá tem tudo
+*/
+
 fn main() {
 
     /* 
