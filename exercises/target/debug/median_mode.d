@@ -1,0 +1,1 @@
+/home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/exercises/target/debug/median_mode: /home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/exercises/src/bin/median_mode.rs

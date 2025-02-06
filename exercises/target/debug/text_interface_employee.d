@@ -1,0 +1,1 @@
+/home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/exercises/target/debug/text_interface_employee: /home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/exercises/src/bin/text_interface_employee.rs

@@ -1,0 +1,1 @@
+/home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/exercises/target/debug/pig_latim: /home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/exercises/src/bin/pig_latim.rs
