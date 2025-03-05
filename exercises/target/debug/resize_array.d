@@ -1,0 +1,1 @@
+/home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/exercises/target/debug/resize_array: /home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/exercises/src/bin/resize_array.rs

@@ -10,6 +10,7 @@ impl IpAddrKind { // enums também podem ter métodos
     }
 }
 
+#[derive(Debug)]
 struct IpAddr {
     kind: IpAddrKind,
     address: String
@@ -22,9 +23,9 @@ fn main() {
     let home = IpAddr {
         kind: four,
         address: String::from("127.0.0.1")
-    };
+    };  
 
     let loopback = IpAddrKind::V6(String::from("::1")); //  aqui a gente coloca um valor no próprio enum
-
+    println!("{:?}", home);
     loopback.call();
 }

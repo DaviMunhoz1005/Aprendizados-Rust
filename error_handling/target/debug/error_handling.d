@@ -1,0 +1,1 @@
+/home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/error_handling/target/debug/error_handling: /home/davi-munhoz/Área\ de\ trabalho/MyRepositories/Aprendizados-Rust/error_handling/src/main.rs

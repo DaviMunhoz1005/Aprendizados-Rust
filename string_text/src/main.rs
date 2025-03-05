@@ -1,7 +1,7 @@
 fn main() {
     // instancia uma string para guardar dados
     let mut my_name = String::new();
-
+    
     // coloca valor nessa instância de string
     my_name = "Davi".to_string();
 
